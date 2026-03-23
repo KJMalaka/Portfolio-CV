@@ -1,4 +1,4 @@
-# Katlego Malaka
+# Katlego Jeffrey Malaka
 
 ** Application Development Student
 
@@ -86,7 +86,7 @@ A networked client-server desktop application enabling institutional staff to ma
 
 
 
-## 📬 References
+##  References
 
 | Name | Role | Contact |
 |------|------|---------|

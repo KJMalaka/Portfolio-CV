@@ -2,8 +2,8 @@
 
 📍 Woodstock, Cape Town &nbsp;|&nbsp; 📞 +27 76 913 5144 &nbsp;|&nbsp; ✉️ 230443370@mycput.ac.za
 
-[![LinkedIn](https://linkedin.com/in/katlegojeffrey-malaka)
-[![GitHub](https://github.com/KJMalaka)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-katlegojeffrey--malaka-blue?logo=linkedin)](https://linkedin.com/in/katlegojeffrey-malaka)
+[![GitHub](https://img.shields.io/badge/GitHub-KJMalaka-black?logo=github)](https://github.com/KJMalaka)
 
 ---
 

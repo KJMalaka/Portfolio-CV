@@ -47,12 +47,12 @@ My academic journey is fuelled by a deep interest in **software architecture**, 
 
 <br>
 
-### 📄 CV Development Process
+### 📄 CV Using Markdown Reflection
 
-When I began drafting my professional CV, I realised I had accumulated a wide range of technical skills spanning React, Next.js, Java, and Python, but had no cohesive way to present them to recruiters and industry partners. My task was to condense my full academic journey at CPUT, my project leadership experience, and my technical depth into a single, high-impact document that could stand out in a competitive job market.
-
-To achieve this, I structured the CV by categorising my technical stack into clear domains covering Frontend, Backend, and Database, and ensured my leadership roles were front and centre. Projects like the Clinic Booking System and QueUp were presented not just as technical exercises, but as evidence of ownership, problem-solving, and teamwork within Agile environments. As a result, the final CV bridges the gap between technical proficiency and leadership capability in a clean, scannable format. It gave me the confidence to approach WIL applications knowing I had a document that authentically represented my growth as a developer and future software architect.
-
+My CV is written and maintained using Markdown, which gave me full control over its structure and presentation without relying on word processors or design tools. Using Markdown meant I could version control my CV alongside my code, keeping it updated in the same environment I work in every day.
+ 
+The document is organised to give recruiters exactly what they need at a glance. My technical skills are grouped by category, my project experience highlights the role I played and the technologies I used, and my education and references are laid out cleanly in tables. Writing it in Markdown also made it straightforward to render it as a webpage through GitHub Pages, meaning anyone can view it through a browser without needing to download anything. It is a practical example of how I apply developer thinking to things beyond just code.
+ 
 <br>
 
 ### 🎥 Mock Interview Reflection

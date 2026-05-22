@@ -21,7 +21,8 @@ My academic journey is fuelled by a deep interest in **software architecture**, 
  
  
 <br>
-##  GitHub Student Account Evidence
+
+## 🎓 GitHub Student Account Evidence
 
 | Field | Details |
 |-------|---------|
@@ -76,7 +77,7 @@ I structured my portfolio into multiple Markdown files using headers and subhead
 
 **Result**
 
-Coding in Markdown forced me to focus on content clarity and structure rather than visual design — a skill that translates directly to writing clear documentation and README files in professional development teams. My portfolio is now version-controlled, easily maintainable, and demonstrates my ability to communicate effectively using developer-standard tools.
+Coding in Markdown forced me to focus on content clarity and structure rather than visual design, a skill that translates directly to writing clear documentation and README files in professional development teams. My portfolio is now version-controlled, easily maintainable, and demonstrates my ability to communicate effectively using developer-standard tools.
  
 <br>
 
@@ -92,7 +93,7 @@ I was required to record a professional mock interview session where I could exp
 
 **Action**
 
-To be honest, I was nervous when recording this video. I was fighting against time and I struggled to maintain consistent eye contact with the camera, which reminded me how different performing under pressure feels compared to writing code. Despite that, I prepared structured talking points that connected my technical decisions to business outcomes. Rather than just listing what I did, I focused on *why* I made specific choices — for example, why we chose Next.js 15 for QueUp and how we navigated deployment issues under hackathon time pressure.
+To be honest, I was nervous when recording this video. I was fighting against time and I struggled to maintain consistent eye contact with the camera, which reminded me how different performing under pressure feels compared to writing code. Despite that, I prepared structured talking points that connected my technical decisions to business outcomes. Rather than just listing what I did, I focused on *why* I made specific choices, for example, why we chose Next.js 15 for QueUp and how we navigated deployment issues under hackathon time pressure.
 
 **Result**
 

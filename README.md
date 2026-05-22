@@ -98,9 +98,12 @@ To be honest, I was nervous when recording this video. I was fighting against ti
 **Result**
 
 The experience was humbling but valuable. It showed me that communication is a skill that needs as much practice as programming, and I now understand the importance of building confidence in front of an audience just as much as building confidence in front of a screen.
-<video width="1000" controls>
-  <source src="Mock Interview.mp4" type="video/mp4">
-</video>
+
+<div align="center">
+  <video width="600" controls>
+    <source src="Mock Interview.mp4" type="video/mp4">
+  </video>
+</div>
 
 <br>
 

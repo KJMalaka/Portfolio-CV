@@ -7,6 +7,10 @@
 <a href="https://katlego-malaka.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-22c55e?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="mailto:230443370@mycput.ac.za"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+<p align="center">
+  🔗 <strong>Live Portfolio:</strong> <a href="https://kjmalaka.github.io/Portfolio-CV/">https://kjmalaka.github.io/Portfolio-CV/</a>
+</p>
 <br>
 
 ## 🧠 About Me
@@ -16,6 +20,15 @@ I'm a **final-year ICT: Application Development** student at CPUT, actively seek
 My academic journey is fuelled by a deep interest in **software architecture**, **AI/ML**, and building technology that solves real problems for real people. I genuinely enjoy participating in hackathons as they push me to think fast, collaborate under pressure, and turn ideas into working products within tight timeframes. They have become one of my favourite ways to grow as a developer and test what I am truly capable of.
  
  
+<br>
+##  GitHub Student Account Evidence
+
+| Field | Details |
+|-------|---------|
+| Username | KJMalaka |
+| Student Email | 230443370@mycput.ac.za |
+| Verification | GitHub Education verified via CPUT partnership |
+
 <br>
 
 ## 🎓 Education
@@ -49,18 +62,41 @@ My academic journey is fuelled by a deep interest in **software architecture**, 
 
 ### 📄 CV Using Markdown Reflection
 
-My CV is written and maintained using Markdown, which gave me full control over its structure and presentation without relying on word processors or design tools. Using Markdown meant I could version control my CV alongside my code, keeping it updated in the same environment I work in every day.
- 
-The document is organised to give recruiters exactly what they need at a glance. My technical skills are grouped by category, my project experience highlights the role I played and the technologies I used, and my education and references are laid out cleanly in tables. Writing it in Markdown also made it straightforward to render it as a webpage through GitHub Pages, meaning anyone can view it through a browser without needing to download anything. It is a practical example of how I apply developer thinking to things beyond just code.
+**Situation**
+
+For my PRP372s Project Presentation 3 assessment at CPUT, I was required to build a digital portfolio using Markdown rather than traditional word processors or design tools.
+
+**Task**
+
+I needed to design, structure, and code my entire portfolio and CV using GitHub Flavoured Markdown, ensuring it was well-organized, readable, and showcased my work readiness training effectively.
+
+**Action**
+
+I structured my portfolio into multiple Markdown files using headers and subheaders for information hierarchy, tables for skills and awards, badges for visual engagement, and relative links to create a navigable mini-site. I also ensured my Markdown followed GFM conventions including proper formatting syntax.
+
+**Result**
+
+Coding in Markdown forced me to focus on content clarity and structure rather than visual design — a skill that translates directly to writing clear documentation and README files in professional development teams. My portfolio is now version-controlled, easily maintainable, and demonstrates my ability to communicate effectively using developer-standard tools.
  
 <br>
 
 ### 🎥 Mock Interview Reflection
 
-Academic excellence and coding skill alone don't win placements because communication matters just as much. I needed to step away from the keyboard and prove I could articulate my thought process clearly under pressure. My task was to record a professional mock interview session where I could explain my development approach, my contributions to team environments like Abantu Tech, and how I handle real-world challenges such as the MICT SETA National Skills Challenge.
- 
-To be honest, I was nervous when recording this video. I was fighting against time and I struggled to maintain consistent eye contact with the camera, which reminded me how different performing under pressure feels compared to writing code. Despite that, I prepared structured talking points that connected my technical decisions to business outcomes. Rather than just listing what I did, I focused on *why* I made specific choices, for example why we chose Next.js 15 for QueUp and how we navigated deployment issues under hackathon time pressure. The experience was humbling but valuable. It showed me that communication is a skill that needs as much practice as programming, and I now understand the importance of building confidence in front of an audience just as much as building confidence in front of a screen.
+**Situation**
 
+Academic excellence and coding skill alone do not win placements because communication matters just as much. I needed to step away from the keyboard and prove I could articulate my thought process clearly under pressure.
+
+**Task**
+
+I was required to record a professional mock interview session where I could explain my development approach, my contributions to team environments like Abantu Tech, and how I handle real-world challenges such as the MICT SETA National Skills Challenge.
+
+**Action**
+
+To be honest, I was nervous when recording this video. I was fighting against time and I struggled to maintain consistent eye contact with the camera, which reminded me how different performing under pressure feels compared to writing code. Despite that, I prepared structured talking points that connected my technical decisions to business outcomes. Rather than just listing what I did, I focused on *why* I made specific choices — for example, why we chose Next.js 15 for QueUp and how we navigated deployment issues under hackathon time pressure.
+
+**Result**
+
+The experience was humbling but valuable. It showed me that communication is a skill that needs as much practice as programming, and I now understand the importance of building confidence in front of an audience just as much as building confidence in front of a screen.
 <video width="1000" controls>
   <source src="Mock Interview.mp4" type="video/mp4">
 </video>
@@ -68,9 +104,21 @@ To be honest, I was nervous when recording this video. I was fighting against ti
 <br>
 
 ### 🌐 Deploying via GitHub Pages Reflection
-My repository was functional and well-documented, but it existed only for technical viewers who already knew how to navigate GitHub. A recruiter or client shouldn't need to clone a repo to see my work, so my task was to use GitHub Pages to transform the repository into a live, professionally accessible portfolio with a real URL I could share in emails, LinkedIn messages, and job applications.
- 
-This was not my first time using GitHub Pages. I had prior experience deploying websites through it for academic and personal projects, so I came into this with a working understanding of how static site hosting and branch-based deployment work. I applied that experience to optimise my `README.md` with clean Markdown syntax including badges, tables, and clear visual hierarchy, then configured GitHub Pages to deploy directly from the main branch. That prior knowledge helped me troubleshoot rendering issues quickly and ensure everything resolved correctly in the hosted environment. The result is a live, professional URL that demonstrates I understand the full lifecycle of software, from writing code to documenting, versioning, and deploying it for the world to see. That end-to-end ownership is exactly what employers look for in a developer.
+**Situation**
+
+My repository was functional and well-documented, but it existed only for technical viewers who already knew how to navigate GitHub. A recruiter or client should not need to clone a repo to see my work.
+
+**Task**
+
+I needed to use GitHub Pages to transform the repository into a live, professionally accessible portfolio with a real URL I could share in emails, LinkedIn messages, and job applications.
+
+**Action**
+
+This was not my first time using GitHub Pages. I had prior experience deploying websites through it for academic and personal projects, so I came into this with a working understanding of how static site hosting and branch-based deployment work. I applied that experience to optimise my `README.md` with clean Markdown syntax including badges, tables, and clear visual hierarchy, then configured GitHub Pages to deploy directly from the main branch. That prior knowledge helped me troubleshoot rendering issues quickly and ensure everything resolved correctly in the hosted environment.
+
+**Result**
+
+The result is a live, professional URL that demonstrates I understand the full lifecycle of software, from writing code to documenting, versioning, and deploying it for the world to see. That end-to-end ownership is exactly what employers look for in a developer.
 
 <br>
 
